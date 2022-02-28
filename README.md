@@ -1,1 +1,1 @@
-# Payment-Date-Predection
+# Payment-Date-Prediction
